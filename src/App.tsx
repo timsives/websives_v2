@@ -241,7 +241,7 @@ function App() {
       <nav className="relative z-50 px-6 py-4 bg-black/80 backdrop-blur-sm border-b border-white/10">
         <div className="max-w-7xl mx-auto flex items-center justify-between">
           <Link to="/" className="flex items-center space-x-3 w-48 flex-shrink-0">
-            <Globe className="w-8 h-8 text-blue-500" />
+            <img src="/wslt.png" alt="Websives Logo" className="w-8 h-8" />
             <StaticLogo />
           </Link>
           
